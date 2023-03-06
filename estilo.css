@@ -1,0 +1,19 @@
+.boanoite {
+color: green;
+font-weight: 500;
+}
+.bomdia {
+    color:blueviolet;
+}
+.interna {
+    color:chocolate;
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 20px;
+}
+.externa {
+    color:rosybrown;
+    font-size: 30px;
+    font-family: monospace;
+    font-weight: bold;
+}
